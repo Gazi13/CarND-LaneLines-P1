@@ -20,20 +20,8 @@ In order to draw a single line on the left and right lanes, we need to modified 
 2. Find average slope and bias.
 3. Calculate the x and y coordinates of the line.
 
+Before
+![alt text][image2] 
+After 
+![alt text][image1]  
 
-![alt text][image1]  ![alt text][image2]
-
-
-### 2. Identify potential shortcomings with your current pipeline
-
-
-One potential shortcoming would be what would happen when ... 
-
-Another shortcoming could be ...
-
-
-### 3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
