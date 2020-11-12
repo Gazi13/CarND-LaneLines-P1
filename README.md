@@ -1,7 +1,4 @@
 
-
-### Reflection
-
 ### Pipeline Describtion
 
 [//]: # (Image References)
